@@ -17,13 +17,6 @@ const config = {
     // -- BrowserStack Projects --
     // name should be of the format browser@browser_version:os os_version@browserstack
     {
-      name: 'chrome@latest-beta:OSX Big Sur@browserstack',
-      use: {
-        browserName: 'chromium',
-        channel: 'chrome',
-      },
-    },
-    {
       name: 'edge@latest:Windows 10@browserstack',
       use: {
         browserName: 'chromium'
