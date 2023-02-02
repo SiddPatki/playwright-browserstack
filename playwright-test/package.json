@@ -13,6 +13,6 @@
   "devDependencies": {
     "playwright": "~1.17.2",
     "@playwright/test": "~1.17.2",
-    "browserstack-local": "^1.4.8"
+    "browserstack-local": "^1.5.1"
   }
 }
