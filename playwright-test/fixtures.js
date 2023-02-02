@@ -13,7 +13,7 @@ const caps = {
   os: 'osx',
   os_version: 'catalina',
   name: 'My first playwright test',
-  build: 'playwright-build-1',
+  build: 'playwright-build-jenkins',
   'browserstack.username': process.env.BROWSERSTACK_USERNAME || 'YOUR_USERNAME',
   'browserstack.accessKey':
     process.env.BROWSERSTACK_ACCESS_KEY || 'YOUR_ACCESS_KEY',
